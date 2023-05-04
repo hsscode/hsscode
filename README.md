@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hsscode
-- 👀 I’m interested in DATA ANALYST
-- 🌱 I’m currently learning DATA ANALYSIS 
+- 🌱 I’m currently working as a DATA ANALYST 
 - 💞️ I’m looking to collaborate on DATA SCIENCE PROJECT
 - 📫 How to reach me : harshsengar28@gmail.com
 
